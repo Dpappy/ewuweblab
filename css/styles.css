@@ -3,5 +3,12 @@
   }
 
   body {
-      background: blue;
+      background: gray;
   }
+
+h1 {
+    color: lemonchiffon;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
