@@ -1,7 +1,28 @@
-  img { 
-      width : 50%; 
-  }
+/* Global */
+body {
+  background: #8888B9;
+}
 
-  body {
-      background: blue;
-  }
+img { 
+    width : 50%;
+}
+
+/* Layout */
+
+
+/* Typography */
+
+
+
+/* Navigation */
+a {
+    background: red;
+    border-radius: 20px;
+    display: block;
+    height: 50px;
+    width: 100px;
+}
+
+li {
+    display: inline-block;
+}
