@@ -1,14 +1,50 @@
-  img { 
-      width : 50%; 
-  }
-
-  body {
+/* Global */
+ body {
       background: gray;
-  }
+ }
 
+img {
+  width : 50%;
+}
+
+
+/* Layout */
+
+
+/* Typography */
 h1 {
     color: lemonchiffon;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
+
+p {
+    background: red;
+    border: 10px double black;
+    padding: 20px;
+    width: 200px;
+}
+
+
+/* Navigation */
+a {
+    background: red;
+    text-decoration: none;
+    
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+li {
+    display: inline;
+}
+
+
+
+
+
+
+
+
 
